@@ -1,0 +1,3 @@
+﻿  FruitQuiz.cpp
+\\et-fileserver\staff\pawnol\Downloads\FruitQuiz\FruitQuiz\FruitQuiz.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FruitQuiz.vcxproj -> \\et-fileserver\staff\pawnol\Downloads\FruitQuiz\FruitQuiz\Debug\FruitQuiz.exe

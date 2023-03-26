@@ -1,0 +1,3 @@
+\\et-fileserver\staff\pawnol\Desktop\FruitQuiz\Debug\FruitQuiz.exe
+\\et-fileserver\staff\pawnol\Desktop\FruitQuiz\Debug\FruitQuiz.pdb
+\\et-fileserver\staff\pawnol\Downloads\FruitQuiz\FruitQuiz\Debug\FruitQuiz.exe
